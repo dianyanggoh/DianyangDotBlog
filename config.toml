@@ -1,19 +1,16 @@
-baseURL = "http://hugeatom.github.io/dianyangdotblog"
+baseURL = "https://hugeatom.github.io/DianyangDotBlog/"
 publishDir = "docs"
 title = "dianyang.blog"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = false 
-description = "Basic personal site theme styled with minimal tachyons, syntax highlighting, and blog series configuration."
+description = "a simple personal blog"
 
 [taxonomies]
-  category = "categories"
-  series = "series"
   tag = "tags"
 
 [params]
-    # change this!
   twitter = "iterateinteract"
 
 [Permalinks]
@@ -23,9 +20,9 @@ description = "Basic personal site theme styled with minimal tachyons, syntax hi
   name = "posts"
   url = "posts/"
 
-[[params.menu]]
-  name = "about"
-  url = "about/"
+#[[params.menu]]
+  #name = "about"
+  #url = "about/"
   
 
 [privacy]
