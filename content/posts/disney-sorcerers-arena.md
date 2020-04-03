@@ -1,8 +1,8 @@
 ---
-title: "Game Notes: Disney Sorcerer's Arena"
+title: "[Game Notes] Disney Sorcerer's Arena"
 date: 2020-03-29T11:35:45+08:00
 draft: false
-tags: ["game notes","game design","combat","ui"]
+tags: ["game notes","game design","combat","ui","simplicity"]
 ---
 I tried [Disney Sorcerer's Arena](https://www.sorcerersarena.com/) and really liked its streamlined combat, particularly the persistent target selection. When combat begins, an enemy target is selected by default. Players can switch target anytime, but otherwise the target remains the same each turn. This saves players an extra click most of the time when they perform an action, since the optimal strategy in most cases is to focus fire on one enemy anyway. (AOE actions hit all enemies instead of a subset of enemies, so targeting is skipped.)
 
@@ -12,6 +12,6 @@ This system does not work if targeting is more nuanced(e.g. AOE actions affect o
 
 I think sacrificing a little extra depth for a huge usability gain is often worth it. 
 
-Eventually, I unlocked the auto-battle option. One input is not the minimum number of interactions after all.
+Eventually, I unlocked the auto-battle option. So, one input is not the minimum number of interactions after all.
 
 P.S. Somewhat surprisingly, the game features a dynamic turn order system. Maybe that should be the subject for another post.

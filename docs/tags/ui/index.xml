@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ui on dianyang.blog</title>
+    <title>ui on dianyang.blog</title>
     <link>https://hugeatom.github.io/DianyangDotBlog/tags/ui/</link>
-    <description>Recent content in Ui on dianyang.blog</description>
+    <description>Recent content in ui on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 11:35:45 +0800</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Game Notes: Disney Sorcerer&#39;s Arena</title>
+      <title>[Game Notes] Disney Sorcerer&#39;s Arena</title>
       <link>https://hugeatom.github.io/DianyangDotBlog/posts/disney-sorcerers-arena/</link>
       <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
       

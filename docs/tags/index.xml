@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on dianyang.blog</title>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Combat</title>
+      <title>combat</title>
       <link>https://hugeatom.github.io/DianyangDotBlog/tags/combat/</link>
       <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Game Design</title>
+      <title>game design</title>
       <link>https://hugeatom.github.io/DianyangDotBlog/tags/game-design/</link>
       <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Game Notes</title>
+      <title>game notes</title>
       <link>https://hugeatom.github.io/DianyangDotBlog/tags/game-notes/</link>
       <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
       
@@ -39,7 +39,16 @@
     </item>
     
     <item>
-      <title>Ui</title>
+      <title>simplicity</title>
+      <link>https://hugeatom.github.io/DianyangDotBlog/tags/simplicity/</link>
+      <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://hugeatom.github.io/DianyangDotBlog/tags/simplicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ui</title>
       <link>https://hugeatom.github.io/DianyangDotBlog/tags/ui/</link>
       <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
       
