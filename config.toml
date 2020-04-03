@@ -1,0 +1,39 @@
+baseURL = "https://www.example.com/"
+publishDir = "docs"
+title = "dianyang.blog"
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = false 
+description = "Basic personal site theme styled with minimal tachyons, syntax highlighting, and blog series configuration."
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+    # change this!
+  twitter = "iterateinteract"
+
+[Permalinks]
+  post = "posts/:slug"
+
+[[params.menu]]
+  name = "posts"
+  url = "posts/"
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+  
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true

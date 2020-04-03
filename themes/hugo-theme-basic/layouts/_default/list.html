@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+<body lang="{{ .Site.LanguageCode }}" class="sans-serif w-90 w-60-ns center center-ns mv2 mv5-ns" >
+  <span class="b">/ </span>
+  <a href="{{ .Site.BaseURL  }}" class="b no-underline black" >{{ .Site.Title  }}</a>
+  <span class="b"> / </span>
+  <a href="."  class="b no-underline black">{{ .Title | urlize }}</a>
+  <section id="main" class="mt5">
+    <div>
+      <ul id="list" class="pl0">
+        <!-- prettier-ignore -->
+        {{ range .Data.Pages.ByDate.Reverse }}
+        <li class="list pl0 lh-copy">
+            <span class="f5 gray">{{ .Date.Format "2006 Jan 02" }}</span>
+            <a class="f3 b dib black no-underline" href="{{ .Permalink}}" >{{ .Title }}</a>
+            {{ range $index, $element := .Params.tags }}<a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}' class="link silver">#{{ . }}</a> {{ end }}
+        </li>
+        <!-- prettier-ignore -->
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  {{ partial "footer.html" . }}
+</body>

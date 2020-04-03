@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on dianyang.blog</title>
+    <link>https://www.example.com/tags/</link>
+    <description>Recent content in Tags on dianyang.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 11:35:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combat</title>
+      <link>https://www.example.com/tags/combat/</link>
+      <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://www.example.com/tags/combat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design</title>
+      <link>https://www.example.com/tags/game-design/</link>
+      <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://www.example.com/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Notes</title>
+      <link>https://www.example.com/tags/game-notes/</link>
+      <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://www.example.com/tags/game-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ui</title>
+      <link>https://www.example.com/tags/ui/</link>
+      <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://www.example.com/tags/ui/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
