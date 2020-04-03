@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+baseURL = "http://hugeatom.github.io/dianyangdotblog"
 publishDir = "docs"
 title = "dianyang.blog"
 theme ="hugo-theme-basic"
