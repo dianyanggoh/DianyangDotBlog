@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>game notes on dianyang.blog</title>
-    <link>https://hugeatom.github.io/DianyangDotBlog/tags/game-notes/</link>
+    <link>https://dianyang.blog/tags/game-notes/</link>
     <description>Recent content in game notes on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 11:35:45 +0800</lastBuildDate>
     
-	<atom:link href="https://hugeatom.github.io/DianyangDotBlog/tags/game-notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dianyang.blog/tags/game-notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[Game Notes] Disney Sorcerer&#39;s Arena</title>
-      <link>https://hugeatom.github.io/DianyangDotBlog/posts/disney-sorcerers-arena/</link>
+      <link>https://dianyang.blog/posts/disney-sorcerers-arena/</link>
       <pubDate>Sun, 29 Mar 2020 11:35:45 +0800</pubDate>
       
-      <guid>https://hugeatom.github.io/DianyangDotBlog/posts/disney-sorcerers-arena/</guid>
+      <guid>https://dianyang.blog/posts/disney-sorcerers-arena/</guid>
       <description>I tried Disney Sorcerer&amp;rsquo;s Arena and really liked its streamlined combat, particularly the persistent target selection. When combat begins, an enemy target is selected by default. Players can switch target anytime, but otherwise the target remains the same each turn. This saves players an extra click most of the time when they perform an action, since the optimal strategy in most cases is to focus fire on one enemy anyway. (AOE actions hit all enemies instead of a subset of enemies, so targeting is skipped.</description>
     </item>
     
