@@ -6,10 +6,32 @@
     <description>Recent content in game notes on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2020 17:04:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 20:23:24 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/tags/game-notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Game Notes] Rupert Reset</title>
+      <link>https://dianyang.blog/posts/rupert-reset/</link>
+      <pubDate>Sun, 12 Apr 2020 20:23:24 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/rupert-reset/</guid>
+      <description>Rupert Reset is a puzzle platformer made for a game jam, where you can reset certain objects in each level to their original state. It&amp;rsquo;s very similar to Braid, in which only glowing items are immune to time manipulation. The art is very polished and cute; the &amp;ldquo;snow-bear&amp;rdquo; main character is quite unique!
+There were a few interesting applications of the mechanics, though I felt like the spikes were mostly just unnecessary distractions.</description>
+    </item>
+    
+    <item>
+      <title>[Game Notes] I Love Hue Too</title>
+      <link>https://dianyang.blog/posts/i-love-hue-too/</link>
+      <pubDate>Sat, 11 Apr 2020 20:47:09 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/i-love-hue-too/</guid>
+      <description>I Love Hue Too is a simple mobile puzzle game about rearranging colors according to their hues.
+I played mostly by intuition and had a relaxing, pleasurable experience. (You&amp;rsquo;re shown the fewest possible number of moves though, and the world average, if you want more challenge.)
+I wonder if the game trains you to better discern hues. Probably?
+The levels are satisfying to complete in a way that&amp;rsquo;s subtly different from most other puzzle games.</description>
+    </item>
     
     <item>
       <title>[Game Notes] Cipher</title>
