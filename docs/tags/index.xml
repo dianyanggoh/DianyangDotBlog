@@ -6,7 +6,7 @@
     <description>Recent content in Tags on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2020 20:23:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 14:21:38 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>game design</title>
       <link>https://dianyang.blog/tags/game-design/</link>
-      <pubDate>Sun, 12 Apr 2020 20:23:24 +0800</pubDate>
+      <pubDate>Tue, 21 Apr 2020 14:21:38 +0800</pubDate>
       
       <guid>https://dianyang.blog/tags/game-design/</guid>
       <description></description>
@@ -23,9 +23,54 @@
     <item>
       <title>game notes</title>
       <link>https://dianyang.blog/tags/game-notes/</link>
-      <pubDate>Sun, 12 Apr 2020 20:23:24 +0800</pubDate>
+      <pubDate>Tue, 21 Apr 2020 14:21:38 +0800</pubDate>
       
       <guid>https://dianyang.blog/tags/game-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pico-8</title>
+      <link>https://dianyang.blog/tags/pico-8/</link>
+      <pubDate>Tue, 21 Apr 2020 14:21:38 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/pico-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unique mechanic</title>
+      <link>https://dianyang.blog/tags/unique-mechanic/</link>
+      <pubDate>Tue, 21 Apr 2020 14:21:38 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/unique-mechanic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ambition</title>
+      <link>https://dianyang.blog/tags/ambition/</link>
+      <pubDate>Sun, 19 Apr 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/ambition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grit</title>
+      <link>https://dianyang.blog/tags/grit/</link>
+      <pubDate>Sun, 19 Apr 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/grit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perspective</title>
+      <link>https://dianyang.blog/tags/perspective/</link>
+      <pubDate>Sun, 19 Apr 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/perspective/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,21 @@
     <description>Recent content in game design on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2020 20:23:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 14:21:38 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Game Notes] Mimic</title>
+      <link>https://dianyang.blog/posts/mimic/</link>
+      <pubDate>Tue, 21 Apr 2020 14:21:38 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/mimic/</guid>
+      <description>Mimic is a single level prototype with quite a unique mechanic: mimic an animal&amp;rsquo;s movement pattern to take its form.
+Animals are differentiated by the terrain they can move on, so you will get stuck unless you transform beside the correct adjacent terrains.
+Terrains are also laid out to constrain player movement, which then feeds back into the animal forms you can take on. Another way to get stuck is to be confined such that you cannot mimic other animal movement patterns.</description>
+    </item>
     
     <item>
       <title>[Game Notes] Rupert Reset</title>

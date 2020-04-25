@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>perspective on dianyang.blog</title>
+    <link>https://dianyang.blog/tags/perspective/</link>
+    <description>Recent content in perspective on dianyang.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 11:35:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://dianyang.blog/tags/perspective/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eating Elephants</title>
+      <link>https://dianyang.blog/posts/eating-elephants/</link>
+      <pubDate>Sun, 19 Apr 2020 11:35:45 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/eating-elephants/</guid>
+      <description>Q: How do you eat an elephant?
+A: One bite at a time.
+ Sometimes I forget things that are obviously true.
+Like the fact that there are only so many days in a lifetime, and only so many minutes in a day.
+Or that the people I admire worked insanely hard to achieve what they did, and so must I.
+These are the invariants.
+When the journey is long and uncomfortable,</description>
+    </item>
+    
+  </channel>
+</rss>
