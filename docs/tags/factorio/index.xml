@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>factorio on dianyang.blog</title>
+    <link>https://dianyang.blog/tags/factorio/</link>
+    <description>Recent content in factorio on dianyang.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 May 2020 22:09:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://dianyang.blog/tags/factorio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Game Notes] Soul Builder</title>
+      <link>https://dianyang.blog/posts/soul-builder/</link>
+      <pubDate>Tue, 05 May 2020 22:09:22 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/soul-builder/</guid>
+      <description>Soul Builder is a short &amp;ldquo;idle&amp;rdquo; game with worker placement mechanics.
+You have to sacrifice workers to construct certain buildings. There&amp;rsquo;s no real choice involved because the construction of these buildings constitute the winning condition. The optimal time to sacrifice workers is obvious, but efficiency doesn&amp;rsquo;t matter much since you will accumulate enough resources eventually.
+Maybe the game is trying to encourage you to question the morality of sacrificing these workers, but I don&amp;rsquo;t think that was the intention.</description>
+    </item>
+    
+  </channel>
+</rss>

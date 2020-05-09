@@ -6,10 +6,46 @@
     <description>Recent content in Tags on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 09:41:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 22:09:22 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>factorio</title>
+      <link>https://dianyang.blog/tags/factorio/</link>
+      <pubDate>Tue, 05 May 2020 22:09:22 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/factorio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game design</title>
+      <link>https://dianyang.blog/tags/game-design/</link>
+      <pubDate>Tue, 05 May 2020 22:09:22 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game notes</title>
+      <link>https://dianyang.blog/tags/game-notes/</link>
+      <pubDate>Tue, 05 May 2020 22:09:22 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/game-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idle</title>
+      <link>https://dianyang.blog/tags/idle/</link>
+      <pubDate>Tue, 05 May 2020 22:09:22 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/idle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>death</title>
@@ -44,24 +80,6 @@
       <pubDate>Sat, 02 May 2020 09:41:47 +0800</pubDate>
       
       <guid>https://dianyang.blog/tags/tolstoy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>game design</title>
-      <link>https://dianyang.blog/tags/game-design/</link>
-      <pubDate>Tue, 21 Apr 2020 14:21:38 +0800</pubDate>
-      
-      <guid>https://dianyang.blog/tags/game-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>game notes</title>
-      <link>https://dianyang.blog/tags/game-notes/</link>
-      <pubDate>Tue, 21 Apr 2020 14:21:38 +0800</pubDate>
-      
-      <guid>https://dianyang.blog/tags/game-notes/</guid>
       <description></description>
     </item>
     
