@@ -6,10 +6,21 @@
     <description>Recent content on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 22:09:22 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 17:43:20 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vaguely Titled</title>
+      <link>https://dianyang.blog/posts/vaguely-titled/</link>
+      <pubDate>Tue, 12 May 2020 17:43:20 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/vaguely-titled/</guid>
+      <description>I came across a post titled Human Programming Interface recently.
+Imagine being able to program your own behavior and emotions. We may be able to do literally that one day, but until then a will-powered, self-enforced prototype will have to suffice. What if you exhaustively defined a set of rules detailing how you should behave in every conceivable scenario, and then committed to it? That would be transformative.
+That&amp;rsquo;s what I thought the post would be about, but it was about something else entirely.</description>
+    </item>
     
     <item>
       <title>[Game Notes] Soul Builder</title>
