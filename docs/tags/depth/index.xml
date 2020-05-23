@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>depth on dianyang.blog</title>
+    <link>https://dianyang.blog/tags/depth/</link>
+    <description>Recent content in depth on dianyang.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 10:34:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://dianyang.blog/tags/depth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Game Notes] Lost Cities</title>
+      <link>https://dianyang.blog/posts/lost-cities/</link>
+      <pubDate>Sun, 17 May 2020 10:34:44 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/lost-cities/</guid>
+      <description>I bought Lost Cities on iOS after hearing about it on The Spelunky Showlike podcast. It&amp;rsquo;s the digital adaptation of the original board game by Reiner Knizia.
+It&amp;rsquo;s inspiring how much depth is packed into such simple rules. New strategies occur to me as I play, and it&amp;rsquo;s not always clear if I&amp;rsquo;m making the best move. I&amp;rsquo;m still working my way through the AI opponents, but I&amp;rsquo;m looking forward to playing against other online players.</description>
+    </item>
+    
+  </channel>
+</rss>
