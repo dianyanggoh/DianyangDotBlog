@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html
+  class=""
+  lang="en-us"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  <head>
+    <meta charset="utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="description" content="" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<meta name="keywords" content="game notes,
+game design,
+puzzle,
+min-max,
+toy,
+playfulness,
+">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="[Game Notes] Tiny Islands" />
+<meta property="og:site_name" content="dianyang.blog" />
+<meta property="og:image" content="" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="" />
+<meta property="og:image:height" content="" />
+<meta property="og:url" content="https://dianyang.blog/posts/tiny-islands/" />
+<meta property="og:locale" content="en-us" />
+<meta property="article:published_time" content="2020-05-27
+" /> <meta property="article:modified_time" content="2020-05-27
+" />
+
+
+<meta property="article:tag" content="game notes" />
+<meta property="article:tag" content="game design" />
+<meta property="article:tag" content="puzzle" />
+<meta property="article:tag" content="min-max" />
+<meta property="article:tag" content="toy" />
+<meta property="article:tag" content="playfulness" />
+
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@iterateinteract" />
+<meta name="twitter:creator" content="@iterateinteract" />
+<meta
+  name="twitter:title"
+  content="[Game Notes] Tiny Islands | dianyang.blog"
+/>
+<meta
+  name="twitter:description"
+  content="I played Tiny Islands a while back and very much preferred it over Islanders, mainly because the grid makes things much clearer. Both games are quite relaxing, and have great aesthetics.
+I don&rsquo;t really enjoy such games though, as the min-maxing involved usually feels too much like work. It was fascinating to hear the developer talk about designing the scoring system around what looked visually appealing to him. I guess scoring systems for these games tend to be fairly arbitrary anyway, so you might as well try to steer players toward something beautiful?|"
+/>
+<meta name="twitter:image:src" content="" />
+<meta name="twitter:domain" content="https://dianyang.blog/posts/tiny-islands/" />
+
+
+    <title>[Game Notes] Tiny Islands</title>
+    <link rel="canonical" href="https://dianyang.blog/posts/tiny-islands/" />
+
+    <link
+      href=""
+      rel="alternate"
+      type="application/rss+xml"
+      title="[Game Notes] Tiny Islands"
+    />
+
+    <link
+  rel="stylesheet"
+  href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"
+/>
+
+<link rel="stylesheet" href="https://dianyang.blog/css/style.css" />
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/highlightjs@9.12.0/styles/github-gist.css"
+/>
+
+
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-XXXXXXXXX-X', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+</html>
+
+<body
+  lang="en-us"
+  class="sans-serif w-90 w-80-m w-60-ns center mv2 mv5-ns"
+  itemscope
+  itemtype="http://schema.org/Article"
+>
+  
+  <span class="b">/ </span>
+  <a href="https://dianyang.blog/" class="b no-underline black">dianyang.blog</a>
+  <span class="b"> / </span>
+  <a href="/posts" class="b no-underline black">posts</a>
+  <span class="b"> / </span>
+  <a href="."  class="b no-underline black">game-notes-tiny-islands</a>
+
+  <section id="main" class="mt5">
+    <h1 itemprop="name" id="title">[Game Notes] Tiny Islands</h1>
+    <span class="f6 gray">2020 May 27</span>
+    <a href='/tags/game-notes' class="link silver">#game notes</a> <a href='/tags/game-design' class="link silver">#game design</a> <a href='/tags/puzzle' class="link silver">#puzzle</a> <a href='/tags/min-max' class="link silver">#min-max</a> <a href='/tags/toy' class="link silver">#toy</a> <a href='/tags/playfulness' class="link silver">#playfulness</a> 
+
+      <article itemprop="articleBody" id="content" class="w-90 lh-copy">
+        <p>I played <a href="https://dr-d-king.itch.io/tiny-islands">Tiny Islands</a> a while back and very much preferred it over  <a href="https://store.steampowered.com/app/1046030/ISLANDERS/">Islanders</a>, mainly because the grid makes things much clearer. Both games are quite relaxing, and have great aesthetics.</p>
+<p>I don&rsquo;t really enjoy such games though, as the min-maxing involved usually feels too much like work. It was fascinating to hear the <a href="https://www.youtube.com/watch?v=OXAcWMVzHfE">developer talk</a> about designing the scoring system around what looked visually appealing to him. I guess scoring systems for these games tend to be fairly arbitrary anyway, so you might as well try to steer players toward something beautiful?</p>
+<p>I think it&rsquo;d be an interesting challenge to design something more toy-like, <em>without</em> a scoring system. It seems to me that while young children can be endlessly entertained by a single toy, we tend to need explicit goals to hold our attention as we grow older.</p>
+<p>Are there other ways to increase the longevity of toys?<br>
+Are there ways to encourage the rekindling our child-like playfulness?</p>
+
+      </article>
+
+      
+      <span class="f6 gray mv3" title="Lastmod: May 27, 2020. Published at: 2020-05-27.">
+        
+      </span>
+
+      
+
+  </section>
+
+  <footer>
+    <div>
+      <p class="f6 gray mt6 lh-copy">
+        
+      </p>
+    </div>
+  </footer>
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.14.2/highlight.min.js"></script>
+
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+
+  </body>
+  </html>
+</body>

@@ -6,10 +6,20 @@
     <description>Recent content in game design on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 10:34:44 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 18:09:41 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Game Notes] Tiny Islands</title>
+      <link>https://dianyang.blog/posts/tiny-islands/</link>
+      <pubDate>Wed, 27 May 2020 18:09:41 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/tiny-islands/</guid>
+      <description>I played Tiny Islands a while back and very much preferred it over Islanders, mainly because the grid makes things much clearer. Both games are quite relaxing, and have great aesthetics.
+I don&amp;rsquo;t really enjoy such games though, as the min-maxing involved usually feels too much like work. It was fascinating to hear the developer talk about designing the scoring system around what looked visually appealing to him. I guess scoring systems for these games tend to be fairly arbitrary anyway, so you might as well try to steer players toward something beautiful?</description>
+    </item>
     
     <item>
       <title>[Game Notes] Lost Cities</title>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>playfulness on dianyang.blog</title>
-    <link>https://dianyang.blog/tags/playfulness/</link>
-    <description>Recent content in playfulness on dianyang.blog</description>
+    <title>min-max on dianyang.blog</title>
+    <link>https://dianyang.blog/tags/min-max/</link>
+    <description>Recent content in min-max on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 May 2020 18:09:41 +0800</lastBuildDate>
     
-	<atom:link href="https://dianyang.blog/tags/playfulness/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dianyang.blog/tags/min-max/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://dianyang.blog/posts/tiny-islands/</guid>
       <description>I played Tiny Islands a while back and very much preferred it over Islanders, mainly because the grid makes things much clearer. Both games are quite relaxing, and have great aesthetics.
 I don&amp;rsquo;t really enjoy such games though, as the min-maxing involved usually feels too much like work. It was fascinating to hear the developer talk about designing the scoring system around what looked visually appealing to him. I guess scoring systems for these games tend to be fairly arbitrary anyway, so you might as well try to steer players toward something beautiful?</description>
-    </item>
-    
-    <item>
-      <title>Vaguely Titled</title>
-      <link>https://dianyang.blog/posts/vaguely-titled/</link>
-      <pubDate>Tue, 12 May 2020 17:43:20 +0800</pubDate>
-      
-      <guid>https://dianyang.blog/posts/vaguely-titled/</guid>
-      <description>I came across a post titled Human Programming Interface recently.
-Imagine being able to program your own behavior and emotions. We may be able to do literally that one day, but until then a will-powered, self-enforced prototype will have to suffice. What if you exhaustively defined a set of rules detailing how you should behave in every conceivable scenario, and then committed to it? That would be transformative.
-That&amp;rsquo;s what I thought the post would be about, but it was about something else entirely.</description>
     </item>
     
   </channel>

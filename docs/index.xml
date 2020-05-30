@@ -6,10 +6,31 @@
     <description>Recent content on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 10:34:44 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 18:09:41 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Game Notes] Tiny Islands</title>
+      <link>https://dianyang.blog/posts/tiny-islands/</link>
+      <pubDate>Wed, 27 May 2020 18:09:41 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/tiny-islands/</guid>
+      <description>I played Tiny Islands a while back and very much preferred it over Islanders, mainly because the grid makes things much clearer. Both games are quite relaxing, and have great aesthetics.
+I don&amp;rsquo;t really enjoy such games though, as the min-maxing involved usually feels too much like work. It was fascinating to hear the developer talk about designing the scoring system around what looked visually appealing to him. I guess scoring systems for these games tend to be fairly arbitrary anyway, so you might as well try to steer players toward something beautiful?</description>
+    </item>
+    
+    <item>
+      <title>Groundhog Week</title>
+      <link>https://dianyang.blog/posts/groundhog-week/</link>
+      <pubDate>Sun, 24 May 2020 09:23:17 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/groundhog-week/</guid>
+      <description>Groundhog Day&amp;lsquo;s premise seems curious, until you realize that most of us are living and reliving &amp;ldquo;Groundhog Weeks&amp;rdquo;.
+But we are not &amp;ldquo;trapped&amp;rdquo; in a time loop.
+Repetition isn&amp;rsquo;t necessarily bad, and it doesn&amp;rsquo;t have to be boring. Consistency has a compounding effect, and there can be exciting growth within cycles.</description>
+    </item>
     
     <item>
       <title>[Game Notes] Lost Cities</title>

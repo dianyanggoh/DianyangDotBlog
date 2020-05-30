@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>consistency on dianyang.blog</title>
+    <link>https://dianyang.blog/tags/consistency/</link>
+    <description>Recent content in consistency on dianyang.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 May 2020 09:23:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://dianyang.blog/tags/consistency/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Groundhog Week</title>
+      <link>https://dianyang.blog/posts/groundhog-week/</link>
+      <pubDate>Sun, 24 May 2020 09:23:17 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/groundhog-week/</guid>
+      <description>Groundhog Day&amp;lsquo;s premise seems curious, until you realize that most of us are living and reliving &amp;ldquo;Groundhog Weeks&amp;rdquo;.
+But we are not &amp;ldquo;trapped&amp;rdquo; in a time loop.
+Repetition isn&amp;rsquo;t necessarily bad, and it doesn&amp;rsquo;t have to be boring. Consistency has a compounding effect, and there can be exciting growth within cycles.</description>
+    </item>
+    
+  </channel>
+</rss>
