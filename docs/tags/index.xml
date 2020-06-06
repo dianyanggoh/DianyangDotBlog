@@ -6,7 +6,7 @@
     <description>Recent content in Tags on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2020 18:09:41 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 22:10:00 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>game design</title>
       <link>https://dianyang.blog/tags/game-design/</link>
-      <pubDate>Wed, 27 May 2020 18:09:41 +0800</pubDate>
+      <pubDate>Fri, 05 Jun 2020 22:10:00 +0800</pubDate>
       
       <guid>https://dianyang.blog/tags/game-design/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>game notes</title>
       <link>https://dianyang.blog/tags/game-notes/</link>
-      <pubDate>Wed, 27 May 2020 18:09:41 +0800</pubDate>
+      <pubDate>Fri, 05 Jun 2020 22:10:00 +0800</pubDate>
       
       <guid>https://dianyang.blog/tags/game-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>puzzle</title>
+      <link>https://dianyang.blog/tags/puzzle/</link>
+      <pubDate>Fri, 05 Jun 2020 22:10:00 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/tags/puzzle/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Wed, 27 May 2020 18:09:41 +0800</pubDate>
       
       <guid>https://dianyang.blog/tags/playfulness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>puzzle</title>
-      <link>https://dianyang.blog/tags/puzzle/</link>
-      <pubDate>Wed, 27 May 2020 18:09:41 +0800</pubDate>
-      
-      <guid>https://dianyang.blog/tags/puzzle/</guid>
       <description></description>
     </item>
     

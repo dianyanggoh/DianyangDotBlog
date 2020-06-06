@@ -6,10 +6,21 @@
     <description>Recent content in game design on dianyang.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2020 18:09:41 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 22:10:00 +0800</lastBuildDate>
     
 	<atom:link href="https://dianyang.blog/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Game Notes] Helltaker</title>
+      <link>https://dianyang.blog/posts/helltaker/</link>
+      <pubDate>Fri, 05 Jun 2020 22:10:00 +0800</pubDate>
+      
+      <guid>https://dianyang.blog/posts/helltaker/</guid>
+      <description>Finally got around to playing Helltaker. It&amp;rsquo;s short and sweet and I had a great time with it.
+After solving each puzzle level, you&amp;rsquo;re presented with a short dialogue and two dialogue choices. If you pick the wrong choice, you have to redo the entire level! The choices tend to be nonsensical, and picking the right choice is essentially a coin toss.
+This seems like obviously terrible design, but I found that it forced me to actually read the text in trying to make an educated guess.</description>
+    </item>
     
     <item>
       <title>[Game Notes] Tiny Islands</title>
